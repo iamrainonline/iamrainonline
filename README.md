@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamrainonline
 - 👀 I’m interested in Webdevelopment
-- 🌱 I’m currently learning ReactJS & Redux
+- 🌱 I’m currently working with ReactJS & Redux
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me? cristiancandidatu@hotmail.com
 
