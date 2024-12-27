@@ -1,30 +1,18 @@
 <div align="center">
-  
-# 👨‍💻 Cristian Candido | Full Stack Developer
+ 
+# 💫 Cristian Candidatu
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristiancandidatu@hotmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;React+%7C+Redux+%7C+TypeScript;Building+beautiful+web+experiences)](https://git.io/typing-svg)
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;React+%7C+Redux+%7C+Node.js;Building+the+future%2C+one+line+at+a+time" alt="Typing SVG" />
-</div>
+### 🚀 About Me
+I craft elegant web experiences with modern technologies, focusing on responsive design and seamless user interactions.
 
-## 🚀 About Me
-
-> "Code is poetry in motion, and I'm here to write the future."
-
-I'm a passionate Full Stack Developer who transforms ideas into elegant, efficient solutions. With a keen eye for detail and a love for clean code, I specialize in creating responsive, user-centric applications that make a difference.
-
-### 🛠️ Tech Stack
-
-```javascript
-const skills = {
-  frontend: ['React', 'Redux', 'JavaScript', 'TypeScript', 'Tailwind CSS'],
-  backend: ['Node.js', 'Express', 'RESTful APIs'],
-  databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
-  tools: ['Git', 'Docker', 'VS Code', 'Figma'],
-  architecture: ['MVC', 'Microservices', 'Server-Side Rendering']
-};
+```typescript
+const tech = {
+ core: ["React", "Redux", "TypeScript"],
+ styling: ["Tailwind CSS", "SCSS"],
+ tools: ["Git", "VS Code", "Figma"],
+ currently: "Building amazing web applications"
+}
