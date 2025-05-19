@@ -4,7 +4,7 @@
 
 ## About Me
 
-Frontend Developer passionate about crafting engaging, responsive user interfaces. I specialize in transforming complex problems into elegant solutions using modern web technologies and clean, maintainable code.
+Web developer passionate about crafting engaging, responsive user interfaces. I specialize in transforming complex problems into elegant solutions using modern web technologies and clean, maintainable code.
 
 ## Technology Expertise
 
