@@ -1,6 +1,4 @@
-# Cristian Candidatu
-
-### Frontend Developer
+### Web & App developer
 
 ---
 
